@@ -1,0 +1,6 @@
+Nama: Amanda
+Umur: 18
+Alamat: Bandung
+Nama: Sandi
+Umur: 19
+Alamat: Surabaya
